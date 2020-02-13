@@ -4,7 +4,7 @@
 This technical assessment will be evaluated regarding these following points:
 - Python Programming
 - Clean code
-- Interoperabilityæ
+- Interoperability
 - Scalability
 - Versioning
 - Automatization
